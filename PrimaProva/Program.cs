@@ -7,5 +7,6 @@ Console.Write("Aggiungi un nome: ");
 var testo = Console.ReadLine();
 
 Console.WriteLine(testo);
+Console.WriteLine(testo);
 
 
