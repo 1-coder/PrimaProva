@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaProva", "PrimaProva\PrimaProva.csproj", "{6CEA6E50-6A8B-43E1-8972-89656E4D29DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CEA6E50-6A8B-43E1-8972-89656E4D29DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEA6E50-6A8B-43E1-8972-89656E4D29DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEA6E50-6A8B-43E1-8972-89656E4D29DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEA6E50-6A8B-43E1-8972-89656E4D29DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F8EF245-9837-41EC-90AE-99236BF179E6}
+	EndGlobalSection
+EndGlobal
